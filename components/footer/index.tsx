@@ -72,7 +72,7 @@ export default function GlobalFooter() {
           </ul>
         </nav>
         <p className="text-sm text-gray-600">
-          © 2024 SBIMED. All rights reserved.
+          © 2024 SAMPLE. All rights reserved.
         </p>
       </div>
     </footer>
